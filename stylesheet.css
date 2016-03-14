@@ -1,0 +1,92 @@
+body {
+	background-color: rgb(104, 187, 285);
+	text-align: center;
+}
+
+/*===========
+   Header 
+===========*/
+#header {
+	background-color: #80C1E5;
+	border: 1px solid #6bb7e1;
+	color: #ffffff;
+	height: 100px;
+	padding-top: 10px;
+	margin: 20px 20px;                   	
+}
+
+img {
+	border: 2.5px solid #ffffff;
+	width: 150px;
+	height: 200px;
+}
+
+/*===========
+  Container 
+===========*/
+#container {
+	background-color: #80C1E5;
+	border: 1px solid #6bb7e1;
+	margin: 0px 20px;
+}
+
+#left-box {
+	background-color: rgb(9, 30, 45);  
+	margin: 20px 20px;    
+	padding: 20px;
+	text-align: center;
+	line-height: 2;
+	color: white;
+	float: left;
+}
+	
+
+#left-box ul {
+	list-style-type: none;   
+	margin: 10px;
+	padding: 10px 10px;
+}
+
+#left-box hr {
+	width: 150px;
+}
+
+#right-box {
+	background-color: #5aa6d1;
+	margin: 0 0 0 320px;
+}
+
+#right-box h2 {
+	background: #ffffff;
+	height: 50px;	
+	padding: 15px 0 0 0;
+	margin: 10px 20px 0 20px;
+}
+
+#experience-box, #studies-box {
+	padding-top: 10px;
+}
+
+#experience-box {
+	margin-bottom: 100px;
+}
+
+#studies-box {
+	margin-bottom: 45px;
+	padding-bottom: 12px;
+}
+
+.experience, .study {
+	/*background-color: #133d56;*/
+	color: #ffffff;
+}
+
+/*===========
+   Footer 
+===========*/
+#footer {
+	background-color: #80C1E5;
+	margin: 20px 20px;
+}
+
+
